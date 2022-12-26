@@ -1,0 +1,8 @@
+{
+  "proxy_string": "type://user:pass@ip:port",
+  "proxy_change_url": "",
+  "bot_token": "",
+  "node_url": "https://nodes.mewapi.io/rpc/eth",
+  "owner_user_id": 123,
+  "check_transactions_threads": 30
+}
